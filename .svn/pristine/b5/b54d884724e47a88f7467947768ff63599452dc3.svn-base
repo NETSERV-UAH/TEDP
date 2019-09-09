@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled 
+ee9f576339665d6c45b3796f493d1104c04cfa74 refs/remotes/origin/gh-pages
+9557f68a7d75154c015595cee2673b0fe9363e84 refs/remotes/origin/master
+aed39286bf506b1e95aea28e50cfcd6fe9851249 refs/remotes/origin/multiple-conn
+de4f9cdd011d6743cc5baa5a2991aa444d13fa02 refs/remotes/origin/open_wrt
+94f6488dfd36255fa8b9e9722f2c6cb338d5cc5e refs/remotes/origin/remove_netbee
